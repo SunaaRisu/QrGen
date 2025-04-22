@@ -1,1 +1,0 @@
-/sbin/c++ -Wl,--dependency-file=CMakeFiles/QrGen.dir/link.d CMakeFiles/QrGen.dir/qrgen.cpp.o CMakeFiles/QrGen.dir/qrcodegen.cpp.o -o QrGen
