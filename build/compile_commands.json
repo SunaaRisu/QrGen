@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/sunaa/dev/qr/build",
+  "command": "/sbin/c++   -std=gnu++23 -o CMakeFiles/QrGen.dir/qrgen.cpp.o -c /home/sunaa/dev/qr/qrgen.cpp",
+  "file": "/home/sunaa/dev/qr/qrgen.cpp",
+  "output": "CMakeFiles/QrGen.dir/qrgen.cpp.o"
+},
+{
+  "directory": "/home/sunaa/dev/qr/build",
+  "command": "/sbin/c++   -std=gnu++23 -o CMakeFiles/QrGen.dir/qrcodegen.cpp.o -c /home/sunaa/dev/qr/qrcodegen.cpp",
+  "file": "/home/sunaa/dev/qr/qrcodegen.cpp",
+  "output": "CMakeFiles/QrGen.dir/qrcodegen.cpp.o"
+}
+]
